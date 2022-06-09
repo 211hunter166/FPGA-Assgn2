@@ -35,10 +35,13 @@ table1 [17]=13;  table1_filled [17]=1;
 table2 [5]=13;  table2_filled [5]=1;
 
     for (i=0 ; i<20 ;i++) begin
-        $display("%d : %b %b", i , table1_filled[i] , table1[i]);
+        $display("%d : %d %d", i , table1_filled[i] , table1[i]);
 
     end;
+     for (i=0 ; i<20 ;i++) begin
+        $display("%d : %d %d", i , table2_filled[i] , table2[i]);
 
+    end;
     
 end
 
