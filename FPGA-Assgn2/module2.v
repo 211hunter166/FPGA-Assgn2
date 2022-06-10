@@ -1,4 +1,4 @@
-module module2;
+module module2();
 
     reg [31:0] val[39:0];
     reg [4:0] i1 [39:0];

@@ -25,7 +25,7 @@ module mod3(input [31:0] num,
         assign status = stat & clk;
 
         initial begin
-            #1;
+            #2;
         stat <= 1;
         curr_index <= index1;
         curr <= num;
@@ -41,7 +41,7 @@ module mod3(input [31:0] num,
           
         always @(posedge status or negedge status) begin
             
-            //#4;
+            #2;
             if(m1.table1_filled[curr_index] == 0 && status == 1) begin
                 m1.table1_filled[curr_index] <= 1;
                 m1.table1[curr_index] <= in_num;

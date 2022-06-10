@@ -1,0 +1,456 @@
+$date
+	Fri Jun 10 02:07:09 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tb $end
+$var reg 32 ! num [31:0] $end
+$scope module uut $end
+$var wire 1 " i $end
+$var wire 32 # num [31:0] $end
+$scope module m1 $end
+$var integer 32 $ i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope module m310 $end
+$var wire 32 % num [31:0] $end
+$var wire 1 " rin $end
+$var reg 5 & index1 [4:0] $end
+$var reg 32 ' num_o [31:0] $end
+$var reg 1 ( rout $end
+$scope module m1 $end
+$var integer 32 ) i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 * i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m311 $end
+$var wire 1 + rin $end
+$var wire 32 , num [31:0] $end
+$var reg 5 - index1 [4:0] $end
+$var reg 32 . num_o [31:0] $end
+$var reg 1 / rout $end
+$scope module m1 $end
+$var integer 32 0 i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 1 i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m312 $end
+$var wire 1 2 rin $end
+$var wire 32 3 num [31:0] $end
+$var reg 5 4 index1 [4:0] $end
+$var reg 32 5 num_o [31:0] $end
+$var reg 1 6 rout $end
+$scope module m1 $end
+$var integer 32 7 i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 8 i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m313 $end
+$var wire 1 9 rin $end
+$var wire 32 : num [31:0] $end
+$var reg 5 ; index1 [4:0] $end
+$var reg 32 < num_o [31:0] $end
+$var reg 1 = rout $end
+$scope module m1 $end
+$var integer 32 > i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 ? i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m314 $end
+$var wire 1 @ rin $end
+$var wire 32 A num [31:0] $end
+$var reg 5 B index1 [4:0] $end
+$var reg 32 C num_o [31:0] $end
+$var reg 1 D rout $end
+$scope module m1 $end
+$var integer 32 E i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 F i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m315 $end
+$var wire 1 G rin $end
+$var wire 32 H num [31:0] $end
+$var reg 5 I index1 [4:0] $end
+$var reg 32 J num_o [31:0] $end
+$var reg 1 K rout $end
+$scope module m1 $end
+$var integer 32 L i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 M i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m316 $end
+$var wire 1 N rin $end
+$var wire 32 O num [31:0] $end
+$var reg 5 P index1 [4:0] $end
+$var reg 32 Q num_o [31:0] $end
+$var reg 1 R rout $end
+$scope module m1 $end
+$var integer 32 S i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 T i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m317 $end
+$var wire 1 U rin $end
+$var wire 32 V num [31:0] $end
+$var reg 5 W index1 [4:0] $end
+$var reg 32 X num_o [31:0] $end
+$var reg 1 Y rout $end
+$scope module m1 $end
+$var integer 32 Z i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 [ i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m318 $end
+$var wire 1 \ rin $end
+$var wire 32 ] num [31:0] $end
+$var reg 5 ^ index1 [4:0] $end
+$var reg 32 _ num_o [31:0] $end
+$var reg 1 ` rout $end
+$scope module m1 $end
+$var integer 32 a i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 b i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m320 $end
+$var wire 32 c num [31:0] $end
+$var wire 1 ( rin $end
+$var reg 5 d index2 [4:0] $end
+$var reg 32 e num_o [31:0] $end
+$var reg 1 + rout $end
+$scope module m1 $end
+$var integer 32 f i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 g i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m321 $end
+$var wire 32 h num [31:0] $end
+$var wire 1 / rin $end
+$var reg 5 i index2 [4:0] $end
+$var reg 32 j num_o [31:0] $end
+$var reg 1 2 rout $end
+$scope module m1 $end
+$var integer 32 k i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 l i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m322 $end
+$var wire 32 m num [31:0] $end
+$var wire 1 6 rin $end
+$var reg 5 n index2 [4:0] $end
+$var reg 32 o num_o [31:0] $end
+$var reg 1 9 rout $end
+$scope module m1 $end
+$var integer 32 p i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 q i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m323 $end
+$var wire 32 r num [31:0] $end
+$var wire 1 = rin $end
+$var reg 5 s index2 [4:0] $end
+$var reg 32 t num_o [31:0] $end
+$var reg 1 @ rout $end
+$scope module m1 $end
+$var integer 32 u i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 v i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m324 $end
+$var wire 32 w num [31:0] $end
+$var wire 1 D rin $end
+$var reg 5 x index2 [4:0] $end
+$var reg 32 y num_o [31:0] $end
+$var reg 1 G rout $end
+$scope module m1 $end
+$var integer 32 z i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 { i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m325 $end
+$var wire 32 | num [31:0] $end
+$var wire 1 K rin $end
+$var reg 5 } index2 [4:0] $end
+$var reg 32 ~ num_o [31:0] $end
+$var reg 1 N rout $end
+$scope module m1 $end
+$var integer 32 !" i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 "" i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m326 $end
+$var wire 32 #" num [31:0] $end
+$var wire 1 R rin $end
+$var reg 5 $" index2 [4:0] $end
+$var reg 32 %" num_o [31:0] $end
+$var reg 1 U rout $end
+$scope module m1 $end
+$var integer 32 &" i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 '" i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m327 $end
+$var wire 32 (" num [31:0] $end
+$var wire 1 Y rin $end
+$var reg 5 )" index2 [4:0] $end
+$var reg 32 *" num_o [31:0] $end
+$var reg 1 \ rout $end
+$scope module m1 $end
+$var integer 32 +" i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 ," i [31:0] $end
+$upscope $end
+$upscope $end
+$scope module m328 $end
+$var wire 32 -" num [31:0] $end
+$var wire 1 ` rin $end
+$var reg 5 ." index2 [4:0] $end
+$var reg 32 /" num_o [31:0] $end
+$var reg 1 0" rout $end
+$scope module m1 $end
+$var integer 32 1" i [31:0] $end
+$upscope $end
+$scope module m2 $end
+$upscope $end
+$scope begin $ivl_for_loop1 $end
+$var integer 32 2" i [31:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope begin $ivl_for_loop2 $end
+$var integer 32 3" i [31:0] $end
+$upscope $end
+$scope begin $ivl_for_loop3 $end
+$var integer 32 4" i [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx 4"
+bx 3"
+bx 2"
+b10100 1"
+x0"
+bx /"
+bx ."
+bx -"
+bx ,"
+b10100 +"
+bx *"
+bx )"
+bx ("
+bx '"
+b10100 &"
+bx %"
+bx $"
+bx #"
+bx ""
+b10100 !"
+bx ~
+bx }
+bx |
+bx {
+b10100 z
+bx y
+bx x
+bx w
+bx v
+b10100 u
+bx t
+bx s
+bx r
+bx q
+b10100 p
+bx o
+bx n
+bx m
+bx l
+b10100 k
+bx j
+bx i
+bx h
+bx g
+b10100 f
+bx e
+bx d
+bx c
+bx b
+b10100 a
+x`
+bx _
+bx ^
+bx ]
+x\
+bx [
+b10100 Z
+xY
+bx X
+bx W
+bx V
+xU
+bx T
+b10100 S
+xR
+bx Q
+bx P
+bx O
+xN
+bx M
+b10100 L
+xK
+bx J
+bx I
+bx H
+xG
+bx F
+b10100 E
+xD
+bx C
+bx B
+bx A
+x@
+bx ?
+b10100 >
+x=
+bx <
+bx ;
+bx :
+x9
+bx 8
+b10100 7
+x6
+bx 5
+bx 4
+bx 3
+x2
+bx 1
+b10100 0
+x/
+bx .
+bx -
+bx ,
+x+
+bx *
+b10100 )
+x(
+bx '
+bx &
+b100110 %
+b10100 $
+b100110 #
+1"
+b100110 !
+$end
+#1
+0(
+b1111 *
+#2
+0+
+#3
+0/
+#4
+02
+#5
+06
+#6
+09
+#7
+0=
+#8
+0@
+#9
+0D
+#10
+0G
+#11
+0K
+#12
+0N
+#13
+0R
+#14
+0U
+#15
+0Y
+#16
+0\
+#17
+0`
+#18
+00"
+#100
+b10100 4"
+b10100 3"
+#200
